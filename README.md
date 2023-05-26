@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... a lot of things
 - 💞️ I’m looking to collaborate on any good project.
 - 📫 How to reach me ... drop some lines at<strong> code.infokalpa@gmail.com </strong>
+- Thanks for all the contributions - [Ashish Chauhan](https://www.linkedin.com/in/ashish2chauhan) 
 
 <!---
 code-infokalpa/code-infokalpa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
